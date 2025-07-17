@@ -35,7 +35,7 @@ export const Appbar = () => {
     <div className="shadow h-14 flex justify-between items-center md:px-10">
       <Link to={"/dashboard"}>
         <div className="flex flex-col justify-center h-full ml-4 font-bold">
-          PayTM App
+          UpesPay
         </div>
       </Link>
       <div className="flex items-center justify-center gap-2">

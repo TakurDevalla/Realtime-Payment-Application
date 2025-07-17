@@ -1,3 +1,4 @@
+HEAD
 # 💸 Real-Time Payment Application
 
 Welcome to the Real-Time Payment Application — a modern, secure, and efficient platform for peer-to-peer financial transactions. This application enables users to register, manage accounts, and perform real-time money transfers with ease.
@@ -70,3 +71,8 @@ We welcome contributions! If you find a bug or have a feature suggestion, feel f
 
 Thank you for using the Real-Time Payment App! 💰
 Happy Coding! 🚀
+
+# Realtime-Payment-Application
+💳 Real-Time Payment Application Description: Developed a robust full-stack payment application supporting real-time transactions and instant notifications with &lt;200ms latency. The system features JWT-based secure authentication and a responsive React UI to ensure seamless user experience across devices.
+
+ fff9d697fd8253b3886306ba4952c23a06af6ab4
